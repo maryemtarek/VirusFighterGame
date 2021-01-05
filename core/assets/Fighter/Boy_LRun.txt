@@ -1,0 +1,75 @@
+Boy_LRun.png
+size: 750, 258
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Run (1)
+  rotate: false
+  xy: 0, 0
+  size: 150, 129
+  orig: 150, 129
+  offset: 0, 0
+  index: 0
+Run (2)
+  rotate: false
+  xy: 150, 0
+  size: 150, 129
+  orig: 150, 129
+  offset: 0, 0
+  index: 1
+Run (3)
+  rotate: false
+  xy: 300, 0
+  size: 150, 129
+  orig: 150, 129
+  offset: 0, 0
+  index: 2
+Run (4)
+  rotate: false
+  xy: 450, 0
+  size: 150, 129
+  orig: 150, 129
+  offset: 0, 0
+  index: 3
+Run (5)
+  rotate: false
+  xy: 600, 0
+  size: 150, 129
+  orig: 150, 129
+  offset: 0, 0
+  index: 4
+Run (6)
+  rotate: false
+  xy: 0, 129
+  size: 150, 129
+  orig: 150, 129
+  offset: 0, 0
+  index: 5
+Run (7)
+  rotate: false
+  xy: 150, 129
+  size: 150, 129
+  orig: 150, 129
+  offset: 0, 0
+  index: 6
+Run (8)
+  rotate: false
+  xy: 300, 129
+  size: 150, 129
+  orig: 150, 129
+  offset: 0, 0
+  index: 7
+Run (9)
+  rotate: false
+  xy: 450, 129
+  size: 150, 129
+  orig: 150, 129
+  offset: 0, 0
+  index: 8
+Run (10)
+  rotate: false
+  xy: 600, 129
+  size: 150, 129
+  orig: 150, 129
+  offset: 0, 0
+  index: 9

@@ -1,0 +1,61 @@
+Girl_LRun.png
+size: 450, 387
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Run (1)
+  rotate: false
+  xy: 0, 0
+  size: 150, 129
+  orig: 150, 129
+  offset: 0, 0
+  index: -1
+Run (2)
+  rotate: false
+  xy: 150, 0
+  size: 150, 129
+  orig: 150, 129
+  offset: 0, 0
+  index: -1
+Run (3)
+  rotate: false
+  xy: 300, 0
+  size: 150, 129
+  orig: 150, 129
+  offset: 0, 0
+  index: -1
+Run (4)
+  rotate: false
+  xy: 0, 129
+  size: 150, 129
+  orig: 150, 129
+  offset: 0, 0
+  index: -1
+Run (5)
+  rotate: false
+  xy: 150, 129
+  size: 150, 129
+  orig: 150, 129
+  offset: 0, 0
+  index: -1
+Run (6)
+  rotate: false
+  xy: 300, 129
+  size: 150, 129
+  orig: 150, 129
+  offset: 0, 0
+  index: -1
+Run (7)
+  rotate: false
+  xy: 0, 258
+  size: 150, 129
+  orig: 150, 129
+  offset: 0, 0
+  index: -1
+Run (8)
+  rotate: false
+  xy: 150, 258
+  size: 150, 129
+  orig: 150, 129
+  offset: 0, 0
+  index: -1

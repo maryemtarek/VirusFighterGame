@@ -1,0 +1,75 @@
+Boy_Throw.png
+size: 750, 258
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Throw (1)
+  rotate: false
+  xy: 0, 0
+  size: 150, 129
+  orig: 150, 129
+  offset: 0, 0
+  index: 0
+Throw (2)
+  rotate: false
+  xy: 150, 0
+  size: 150, 129
+  orig: 150, 129
+  offset: 0, 0
+  index: 1
+Throw (3)
+  rotate: false
+  xy: 300, 0
+  size: 150, 129
+  orig: 150, 129
+  offset: 0, 0
+  index: 2
+Throw (4)
+  rotate: false
+  xy: 450, 0
+  size: 150, 129
+  orig: 150, 129
+  offset: 0, 0
+  index: 3
+Throw (5)
+  rotate: false
+  xy: 600, 0
+  size: 150, 129
+  orig: 150, 129
+  offset: 0, 0
+  index: 4
+Throw (6)
+  rotate: false
+  xy: 0, 129
+  size: 150, 129
+  orig: 150, 129
+  offset: 0, 0
+  index: 5
+Throw (7)
+  rotate: false
+  xy: 150, 129
+  size: 150, 129
+  orig: 150, 129
+  offset: 0, 0
+  index: 6
+Throw (8)
+  rotate: false
+  xy: 300, 129
+  size: 150, 129
+  orig: 150, 129
+  offset: 0, 0
+  index: 7
+Throw (9)
+  rotate: false
+  xy: 450, 129
+  size: 150, 129
+  orig: 150, 129
+  offset: 0, 0
+  index: 8
+Throw (10)
+  rotate: false
+  xy: 600, 129
+  size: 150, 129
+  orig: 150, 129
+  offset: 0, 0
+  index: 9
